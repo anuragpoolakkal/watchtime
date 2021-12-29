@@ -1,11 +1,11 @@
-/* This program is used to calculate YouTube watch hour with the input of video duration and number of views considering that viewers watched 100% of the video. 
+/* This program is used to calculate YouTube watch time with the input of video duration and number of views considering that viewers watched 100% of the video. 
 
 The output of program will be like this:
 
 YOUTUBE WATCHHOUR CALCULATOR 
 
 Select calculation method 
-1. Calculate watch hour
+1. Calculate watch time
 2. Calculate views
 3. Calculate video duration
 Choose your calculation (1 / 2 / 3): 
@@ -18,10 +18,10 @@ Choose an option to perform the calculation you needed.*/
 using namespace std;
 int main()
 {
-    int selection,hr,min,sec;
-    float watchhour,duration,views;
-    cout<<"YOUTUBE WATCHHOUR CALCULATOR \n\n";
-    cout<<"Select calculation method \n1. Calculate watch hour\n2. Calculate views\n3. Calculate video duration\nChoose your calculation (1 / 2 / 3): ";
+    int selection;
+    float watchhour,duration,hr,min,sec,views;
+    cout<<"YOUTUBE WATCHTIME CALCULATOR \n\n";
+    cout<<"Select calculation method \n1. Calculate watch time\n2. Calculate views\n3. Calculate video duration\nChoose your calculation (1 / 2 / 3): ";
     cin>>selection;
     if (selection==1)
     {
