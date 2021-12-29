@@ -11,5 +11,5 @@ YouTube watch hour calculator using C++. Using this program we can calculate wat
 >Choose your calculation (1 / 2 / 3): 
 Choose from the options to perform calculations as your need.
 
-# 1. Calculate watch hour
+## 1. Calculate watch hour
 
