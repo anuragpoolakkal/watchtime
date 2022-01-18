@@ -14,13 +14,11 @@ This program is used to calculate YouTube watch hour with the input of video dur
   
 Choose an option to perform the calculation you needed.
 
-## 1. Calculate watch time
-With video duration and views, we can calculate watch hours.
+  1) Calculate watch time
+  With video duration and views, we can calculate video watch time.
   
-
-## 2. Calculate views
-With video duration and watch hours, we can calculate views.
+  2) Calculate views
+  With video duration and watch hours, we can calculate views.
   
-
-## 3. Calculate video duration
-With watch hours and views, we can calculate video duration.
+  3) Calculate video duration
+  With watch hours and views, we can calculate video duration.
