@@ -12,7 +12,7 @@ Choose your calculation (1 / 2 / 3):
 
 Choose an option to perform the calculation you needed.*/
 
-// DEVELOPED BY Anurag Rajan - www.anuragrajan.ml
+// DEVELOPED BY Anurag - anuragp.ml
 
 #include <iostream>
 using namespace std;
